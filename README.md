@@ -108,7 +108,7 @@ const sarvesh: Developer = {
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,git,docker,linux,vscode,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=sklearn,git,vscode,github&theme=dark" />
 </p>
 
 </details>
