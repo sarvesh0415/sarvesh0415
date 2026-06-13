@@ -98,7 +98,7 @@ const sarvesh: Developer = {
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,mongodb,postgres,mysql,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,mysql&theme=dark" />
 </p>
 
 </details>
