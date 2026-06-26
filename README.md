@@ -47,7 +47,6 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                    ABOUT ME                               -->
 <!-- ══════════════════════════════════════════════════════════ -->
-
 <div align="center">
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" />
@@ -55,18 +54,12 @@
   </h2>
 </div>
 
-```typescript
-const sarvesh: Developer = {
-  name:       "Sarvesh Shriram",
-  role:       "Full Stack Developer",
-  education:  "B.Tech CSE Undergrad",
-  focus:      ["React", "Node.js", "Python", "ML & AI"],
-  currentlyBuilding: "AI-powered blogging platform — TechBytes",
-  interests:  ["Open Source", "Systems Design", "Generative AI"],
-  contact:    "sarveshshriram15@gmail.com",
-  motto:      "Ship fast. Learn faster.",
-};
-```
+I am a passionate **Full Stack Developer** and **B.Tech CSE Undergrad** dedicated to building impactful applications and exploring new technology horizons.
+
+*  **Currently Building:** AI-powered blogging platform — **TechBytes**
+*  **Core Focus:** React · Node.js · Python · ML & AI
+*  **Interests:** Open Source · Systems Design · Generative AI
+*  **Motto:** *Ship fast. Learn faster.*
 
 <br/>
 
